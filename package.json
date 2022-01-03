@@ -1,0 +1,15 @@
+{
+  "name": "backdrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-pty": "^0.10.1"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.7"
+  }
+}
