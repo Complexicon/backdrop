@@ -6,8 +6,9 @@
   "dependencies": {
     "node-pty": "^0.10.1"
   },
-  "scripts": {
-    "test": "node index.js"
+  "types": "./index.d.ts",
+  "bin": {
+    "backdrop": "./index.js"
   },
   "devDependencies": {
     "@types/node": "^17.0.7"

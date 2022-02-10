@@ -1,0 +1,4 @@
+{
+	"name": "test",
+	"cmd": "sleep 10"
+}
